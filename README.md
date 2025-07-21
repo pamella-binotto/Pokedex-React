@@ -1,6 +1,6 @@
-# 📘 Pokédex React
+# 📘 Pokedex React
 
-Uma Pokédex desenvolvida com React, integrando a PokéAPI, com alternância de tema claro/escuro estilizado, busca por nome e filtro por tipo. O projeto é responsivo, utiliza boas práticas de componentização e inclui testes automatizados com Jest e Testing Library.
+Uma Pokédex desenvolvida com React, integrando a PokeAPI, com alternância de tema claro/escuro estilizado, busca por nome e filtro por tipo. O projeto é responsivo, utiliza boas práticas de componentização e inclui testes automatizados com Jest e Testing Library.
 
 > Criado com foco em aprendizado, qualidade de código e exibição em portfólio front-end.
 
@@ -84,7 +84,7 @@ O projeto conta com um **modo escuro exclusivo**, com fundo em `#0a192f` (azul e
 
 ```bash
 git clone https://github.com/pamella-binotto/Pokedex-React.git
-cd pokedex-react
+cd Pokedex-React
 ```
 
 ### 2. Instale as dependências

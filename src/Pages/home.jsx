@@ -68,7 +68,7 @@ function Home() {
   return (
     <Container data-testid="home-page">
       <ThemeButton />
-      <Titulo>Pokédex</Titulo>
+      <Titulo>Pokedex</Titulo>
 
       <Filter
         searchName={searchName}
