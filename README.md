@@ -127,5 +127,5 @@ npm install --save-dev jest @testing-library/react @testing-library/jest-dom @te
 ## ✨ Desenvolvedora
 
 **Pamella Binotto**  
-👩‍💻 Desenvolvedora Front-End em formação e empreendedora  
+👩‍💻 Desenvolvedora Front-End e empreendedora  
 📍 Florianópolis, SC  
