@@ -8,8 +8,8 @@ Uma Pokédex desenvolvida com React, integrando a PokéAPI, com alternância de 
 
 ## 🔍 Demonstração
 
-<img src="../pokedex-project/src/images/pokedex-light.png" alt="layout no modo claro"/>
-<img src="../pokedex-project/src/images/pokedex-dark.png" alt="layout no modo escuro"/>
+<img src="./src/images/pokedex-light.png" alt="layout no modo claro"/>
+<img src="./src/images/pokedex-dark.png" alt="layout no modo escuro"/>
 ---
 
 ## 🛠️ Tecnologias Utilizadas
